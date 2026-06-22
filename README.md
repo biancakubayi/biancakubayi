@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there,I'm Bianca 👋
+Junior Analyst  
+And I say analyst because I wear the hat of a business analyst, data analyst, business intelligence analyst, so you can imagine I'm quite tall😉.
 
-<!--
-**biancakubayi/biancakubayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Passionate about data-driven decision making  
+- Learning SQL, Excel, Power BI  
+- Interested in  
 
-Here are some ideas to get you started:
+## Skills
+- Excel 
+- SQL
+- Coding (html,css,javascript, python, c#)
+- Power BI / AWS Quicksight
+- Business Process Mapping
+- Data Cleaning and analysis
+- Machine learning
+- Detail oriented
+- Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+- Sales Data Analysis (Excel)
+- Transport Cost Analysis (SQL)
+- Customer Dashboard (Power BI)
+
+## 🌱 I’m currently learning ...
+- Microsoft Azure
+- Microsoft Power Automate
+- Python scripting for automation
+
+##📫 How to reach me:
+- Email: Kubayibianca27@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bianca-kubayi-4b468525b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+## ⚡ Fun fact:
+- My hobbies include reading (thrillers), cooking, and I am a nail artist too.
 -->
