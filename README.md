@@ -3,9 +3,8 @@ Junior Analyst
 And I say analyst because I wear the hat of a business analyst, data analyst, business intelligence analyst, so you can imagine I'm quite tall😉.
 
 ## About Me
-- Passionate about data-driven decision making  
-- Learning SQL, Excel, Power BI  
-- Interested in  
+- Passionate about data-driven decision making, critical and analytical thinkin challenges, learning new things 
+- Interested in technology, analytics, continuous personal growth and developement 
 
 ## Skills
 - Excel 
@@ -24,8 +23,8 @@ And I say analyst because I wear the hat of a business analyst, data analyst, bu
 - Customer Dashboard (Power BI)
 
 ## 🌱 I’m currently learning ...
-- Microsoft Azure
-- Microsoft Power Automate
+- Microsoft Azure, PowerAutomate
+- Financial analysis 
 - Python scripting for automation
 
 ##📫 How to reach me:
