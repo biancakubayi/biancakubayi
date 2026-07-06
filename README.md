@@ -7,9 +7,8 @@ And I say analyst because I wear the hat of a business analyst, data analyst, bu
 - Interested in technology, analytics, continuous personal growth and developement 
 
 ## Skills
-- Excel 
-- SQL
-- Coding (html,css,javascript, python, c#)
+- Microsoft office (powerpoint, word, excel)
+- SQL, Coding (html,css,javascript, python, c#)
 - Power BI / AWS Quicksight
 - Business Process Mapping
 - Data Cleaning and analysis
@@ -18,9 +17,6 @@ And I say analyst because I wear the hat of a business analyst, data analyst, bu
 - Problem solving
 
 ## Projects
-- Sales Data Analysis (Excel)
-- Transport Cost Analysis (SQL)
-- Customer Dashboard (Power BI)
 
 ## 🌱 I’m currently learning ...
 - Microsoft Azure, PowerAutomate
