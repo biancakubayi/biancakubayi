@@ -22,7 +22,8 @@ And I say analyst because I wear the hat of a business analyst, data analyst, bu
 
 
 ## Projects
--Customer churn improvement 
+-Customer churn improvement
+
 -Student enquiry management system 
 
 ## 🌱 I’m currently learning ...
